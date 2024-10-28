@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    background: lightseagreen;
+    height: 100px;
+    width: 1350px;
+    text-align: center;
+}
+#btn{
+    background-color: chocolate;
+    height: 30px;
+    width: 100px;
+    border-radius: 50px 0px 50px 0px;
+    font-size: 15px;
+    font-family: cursive;    
+}
+.cont1{
+    margin-top: 10px;
+    height: 600px;
+    width: 1350px;
+    text-align: center;
+    background-color: rgb(179, 238, 218);
+    
+}
+.profile{
+    height: 500px;
+    float: left;
+    margin: 50px;
+}
+.text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 70px;
+}
+    
+.cont2{
+    margin-top: 10px;
+    padding: 20px;
+    height: 350px;
+    width: 1350px;
+    text-align: center;
+    background-color: rgb(179, 238, 218);
+}
+.iframe{
+    height: 200px;
+    width: 800px;
+}
+.footer{
+    background: lightseagreen;
+    height: 20px;
+    text-align: center;
+    margin-top: 50PX;
+}
